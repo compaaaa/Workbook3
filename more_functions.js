@@ -5,9 +5,9 @@ console.log(123)
 console.log(-123)
 
 console.log(Math.abs(123))
-console.log(Math.abs(-123))
+console.log(Math.abs(-123))//ALWAYS POSITIVE - NEVER NEGATIVE, (inverts makes opposite if negative)
 
-
+// 1-12 Exercise #3 from page 16
 function displayReceipt(totalDue, amountPaid){
     console.log("TOTAL DUE: $" + totalDue);
     console.log("AMOUNT PAID: $" + amountPaid);
