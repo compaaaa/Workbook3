@@ -1,7 +1,7 @@
 
 let score = 0; //GLOBAL VARIABLE
 
-function addOne(){
+function add(){
     score += 7; //CHANGING/MUTATING THE GLOBAL
 }
 
